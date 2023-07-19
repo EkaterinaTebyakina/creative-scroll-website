@@ -1,2 +1,2 @@
 # creative-scroll-website
-Урок WebDesign Master. Работа с эффектами плавного скролаа gsap
+Урок WebDesign Master. Работа с эффектами плавного скролла gsap
